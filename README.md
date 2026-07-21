@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Eitan 👋
 
-<!--
-**eitanb4u/eitanb4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI Systems Developer focused on multi-agent architectures, low-latency execution grids, and custom backend infrastructure. Most of my work revolves around building autonomous workflows, full-stack tools, and automated pipelines that run reliably in production.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I Work With
+
+* **Languages:** Python, TypeScript, JavaScript, SQL, Bash
+* **AI & Agent Frameworks:** Multi-Agent Systems, LangChain, Custom Agent Orchestrators, Prompt Engineering
+* **Backend & Infra:** Node.js, Fastify/Express, PostgreSQL, Redis, Docker, VPS Management, REST APIs
+* **Frontend:** React, Next.js, Tailwind CSS
+
+---
+
+### ⚙️ What I'm Currently Building
+
+* **Vortex Grid** — A multi-agent execution framework for autonomous task routing, lead discovery, and automated logging.
+* Custom automation scripts and deployment tooling for distributed VPS environments.
+
+---
+
+### 📫 Let's Connect
+
+* **Website / Portfolio:** [your-website.com](https://your-website.com)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **Email:** eitanb4u@gmail.com
