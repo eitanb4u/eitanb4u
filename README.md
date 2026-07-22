@@ -24,4 +24,4 @@ I’m an AI Systems Developer focused on multi-agent architectures, low-latency 
 
 * **Website / Portfolio:** [your-website.com](https://your-website.com)
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** eitanb4u@gmail.com
+* **Email:** eitan12312@gmail.com
