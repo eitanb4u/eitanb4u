@@ -23,5 +23,5 @@ I’m an AI Systems Developer focused on multi-agent architectures, low-latency 
 ### 📫 Let's Connect
 
 * **Website / Portfolio:** [eitan-begayev](https://eitan-begayev.netlify.app/)
-* **LinkedIn:** [www.linkedin.com/in/eitan-begayev-076483242](https://www.linkedin.com/in/eitan-begayev-076483242/)
+* **LinkedIn:** [eitan-begayev](www.linkedin.com/in/eitan-begayev)
 * **Email:** eitan12312@gmail.com
